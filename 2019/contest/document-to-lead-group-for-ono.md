@@ -26,6 +26,7 @@
 - 審査グループ担当メンター 1 名
 - 審査員 2~3 名
 - 学生（チーム、または個人） 7~8 グループ
+<div style="page-break-before:always"></div>
 
 ### 審査の流れ
 
@@ -47,10 +48,12 @@
 ## 審査グループ情報
 
 小野さんの審査グループは「**審査グループ A**」となります。
+<div style="page-break-before:always"></div>
 
 ### 会場レイアウト
 
 ![Groups](images/2019-12-19-booth-layout.png)
+<div style="page-break-before:always"></div>
 
 ### 審査グループ A の学生リスト
 

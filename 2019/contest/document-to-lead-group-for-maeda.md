@@ -20,6 +20,7 @@
 「デモブース発表」では、会場を５つの審査グループ（審査グループA ~ E）に分割します。
 
 ![Groups](images/2019-12-17-groups.png)
+<div style="page-break-before:always"></div>
 
 それぞれの審査グループには、次のように配置が行われます。
 
@@ -47,10 +48,12 @@
 ## 審査グループ情報
 
 前田さんの審査グループは「**審査グループ C**」となります。
+<div style="page-break-before:always"></div>
 
 ### 会場レイアウト
 
 ![Groups](images/2019-12-19-booth-layout.png)
+<div style="page-break-before:always"></div>
 
 ### 審査グループ C の学生リスト
 
